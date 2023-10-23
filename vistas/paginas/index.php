@@ -39,7 +39,9 @@
             </a>
          </div>
          <div class="header-bar d-lg-none">
-
+            <span></span>
+            <span></span>
+            <span></span>
          </div>
          <ul class="main-menu">
             <li class="active">
@@ -102,17 +104,9 @@
                </ul>
             </li>
             <li>
-               <a href="contact.html">Login  </a>
-            </li>
-            <li>
-               <a href="contact.html">Logout</a>
+               <a href="contact.html">Contact</a>
             </li>
         </ul>
-        <li class="subtwohober">
-         <a href="error.html">
-            <span>Error 404</span>
-         </a>
-      </li>
       </div>
    </div>
 </header>
@@ -143,7 +137,7 @@
                       <img src="assets/img/banner/banner-shape3.png" alt="banner__shape">
                    </div>
                    <h5 class="wow fadeInUp" data-wow-duration="2s">The Wedding of</h5>
-                   <h1 class="wow fadeInDown" data-wow-duration="4s"> Yessenia  & Pedro   </h1>
+                   <h1 class="wow fadeInDown" data-wow-duration="4s">Shakira & Deniel</h1>
                    <h3 class="wow fadeInUp" data-wow-duration="2s">You are invited</h3>
                 </div>
              </div>
